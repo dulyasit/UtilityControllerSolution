@@ -22,6 +22,16 @@ namespace UtilityControllers.Models
         public string TaxID { get; set; }
         public string PartyAddr1 { get; set; }
         public string PartyAddr2 { get; set; }
-        public string PartyLogoURL { get; set; }
+        public string RegisterNo { get; set; }
+        public string CorporateNo { get; set; }
+        public string CitizenID { get; set; }
+        public string PartyNameLocation { get; set; }
+        public string Fax { get; set; }
+        public string Blank1 { get; set; }
+        public string Blank2 { get; set; }
+        public string Blank3 { get; set; }
+        public string Blank4 { get; set; }
+        public string Blank5 { get; set; }
+        public string Blank6 { get; set; }
     }
 }
